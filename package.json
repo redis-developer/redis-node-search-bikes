@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bike.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node bikes_example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "mit",
+  "dependencies": {
+    "redis": "^4.6.4"
+  }
+}
